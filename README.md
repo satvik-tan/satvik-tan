@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Satvik! 👋
 
-<!--
-**satviking1209/satviking1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web development enthusiast currently in my 3rd year of college. I love building web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express
+- MERN Stack
+- C++
+- C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out if you want to collaborate on any projects!
