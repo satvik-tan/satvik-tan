@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Manimation](animation-generator)
+- 🔭 I’m currently working on a github.com/animation-generator 
 
 - 📫 How to reach me **satviktandondev@gmail.com**
 
