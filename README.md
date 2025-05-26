@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvik-tan&label=Profile%20views&color=0e75b6&style=flat" alt="satvik-tan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satvik-tan" alt="satvik-tan" /></a> </p>
+
 
 - 🔭 I’m currently working on [Manimation](github.com/satvik-tan/animation-generator)
 
