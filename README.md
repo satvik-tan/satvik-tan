@@ -5,7 +5,7 @@
 
 
 
-- 🚀 Currently working on [Animation Generator](https://github.com/satvik-tan/animation-generator) – A python-based video tool that converts user prompts into animated math videos using Manim, FastAPI, Redis, and React.
+- 🚀 Currently working on [Tancode](https://github.com/satvik-tan/tancoder) 
 
 - 📫 How to reach me **satviktandondev@gmail.com**
 
